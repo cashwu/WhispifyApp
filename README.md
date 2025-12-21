@@ -1,12 +1,30 @@
-# 📢 Whispify App | 官方問題追蹤與建議
+# 📢 Whispify App
 
 歡迎來到 **Whispify App** 的官方回報中心！
 
-⚠️ **請注意：此 repo 不包含原始碼，僅作為收集 Bug 回報與功能建議 (Issue Tracker) 使用。**
+此 repo 主要用於收集 Bug 回報與功能建議 (Issue Tracker)，同時也提供 App 下載。
 
-Whispify 提供 **免費版** 與 **Pro 進階版** 服務，致力於為您提供最佳的使用體驗。無論您是免費使用的是 Pro 用戶，我們都非常重視您的反饋。
+Whispify 提供 **免費版** 與 **Pro 進階版** 服務，致力於為您提供最佳的使用體驗。無論您是免費用戶還是 Pro 用戶，我們都非常重視您的反饋。
 
-👉 **前往 App:** [https://whispify.cashwu.com](https://whispify.cashwu.com)
+👉 **官方網站:** [https://whispify.cashwu.com](https://whispify.cashwu.com)
+
+---
+
+## 📥 App 下載
+
+您可以在此 repo 的 [Releases](https://github.com/cashwu/WhispifyApp/releases) 頁面下載最新版本的 App。
+
+### ⚠️ 安全性提示（自我簽名 App）
+
+由於目前 App 使用自我簽名，首次開啟時 macOS 會顯示安全性警告。請按照以下步驟操作：
+
+1. 首次開啟 App 時，會出現無法打開的提示
+   
+   ![安全性警告提示](01.png)
+
+2. 前往 **系統設定** → **隱私權與安全性**，找到相關的提示訊息，點選「**強制打開**」按鈕
+   
+   ![系統設定中強制打開選項](02.png)
 
 ---
 
