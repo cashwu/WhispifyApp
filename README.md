@@ -12,19 +12,14 @@ Whispify 提供 **免費版** 與 **Pro 進階版** 服務，致力於為您提�
 
 ## 📥 App 下載
 
-您可以在此 repo 的 [Releases](https://github.com/cashwu/WhispifyApp/releases) 頁面下載最新版本的 App。
+最新版本請至官網下載頁面取得：
 
-### ⚠️ 安全性提示（自我簽名 App）
+👉 **[下載 Whispify](https://whispify.cashwu.com/download.html)**
 
-由於目前 App 使用自我簽名，首次開啟時 macOS 會顯示安全性警告。請按照以下步驟操作：
+我們提供 **一鍵快速安裝指令**，自動處理下載與 macOS 安全性設定。
+詳細安裝說明請參考 [常見問題 - 如何下載並安裝 App？](https://whispify.cashwu.com/faq.html)。
 
-1. 首次開啟 App 時，會出現無法打開的提示
-   
-   ![安全性警告提示](01.png)
-
-2. 前往 **系統設定** → **隱私權與安全性**，找到相關的提示訊息，點選「**強制打開**」按鈕
-   
-   ![系統設定中強制打開選項](02.png)
+如需手動下載，也可前往 [GitHub Releases](https://github.com/cashwu/WhispifyApp/releases) 頁面。
 
 ---
 
