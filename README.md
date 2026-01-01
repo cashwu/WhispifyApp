@@ -6,7 +6,7 @@
 
 Whispify 提供 **免費版** 與 **Pro 進階版** 服務，致力於為您提供最佳的使用體驗。無論您是免費用戶還是 Pro 用戶，我們都非常重視您的反饋。
 
-👉 **官方網站:** [https://whispify.cashwu.com](https://whispify.cashwu.com)
+👉 **官方網站:** [https://whispifyapp.com](https://whispifyapp.com)
 
 ---
 
@@ -14,10 +14,10 @@ Whispify 提供 **免費版** 與 **Pro 進階版** 服務，致力於為您提�
 
 最新版本請至官網下載頁面取得：
 
-👉 **[下載 Whispify](https://whispify.cashwu.com/download.html)**
+👉 **[下載 Whispify](https://whispifyapp.com/download.html)**
 
 我們提供 **一鍵快速安裝指令**，自動處理下載與 macOS 安全性設定。
-詳細安裝說明請參考 [常見問題 - 如何下載並安裝 App？](https://whispify.cashwu.com/faq.html)。
+詳細安裝說明請參考 [常見問題 - 如何下載並安裝 App？](https://whispifyapp.com/faq.html)。
 
 如需手動下載，也可前往 [GitHub Releases](https://github.com/cashwu/WhispifyApp/releases) 頁面。
 
@@ -54,4 +54,4 @@ Whispify 提供 **免費版** 與 **Pro 進階版** 服務，致力於為您提�
 
 ## 🔗 相關連結
 
-*   **官方網站**: [whispify.cashwu.com](https://whispify.cashwu.com)
+*   **官方網站**: [whispify.cashwu.com](https://whispifyapp.com)
